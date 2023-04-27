@@ -1,0 +1,17 @@
+.orderbyid{
+    background-image: url("https://media.istockphoto.com/id/1279717621/photo/white-recycle-paper-cardboard-surface-texture-background.jpg?s=612x612&w=0&k=20&c=7_jWZb_7efVg_Gk9y2ASnBX4RYTAlaqYJ8oZconPZUw=");
+    background-size: cover;
+    opacity: 0.8;
+    display: flexbox;
+    color: black;
+    border:2px black;
+    width:300px;
+    padding:50px;
+    margin:10px;
+    box-shadow: 0 9px 9px black;  
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 450px;
+    /* margin-right: 100px; */
+  
+}

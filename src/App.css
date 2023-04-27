@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  min-height: 13vh;
+  background-color: rgb(158, 207, 102);
+  text-decoration: none;
+  color:white;
+  
+  font-size: large;
+  /* display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: #fff;
+  background-color: #000;
+  border-radius: 4px; */
+  
+}
+
+.nav-links{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  align-items: center;
+  list-style: none;
+}
+.logo{
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  width: 29vh;
+}
+header{
+  position: relative;
+}
+.customer li{
+  display: inline-block;
+  margin-left: 60px;
+}
+.deliveryagent li{
+  display: inline-block;
+  margin-left: 70px;
+}

@@ -1,0 +1,20 @@
+.cls{
+    margin-left: 5%;
+   
+  
+  } 
+
+  .btns {
+    align-items: center;
+    display: block;
+    width: 10%;
+    padding: 10px;
+    margin-top: 20px;
+    background:rgb(95, 185, 191);
+    color: rgb(233, 247, 249);
+    cursor: pointer;
+  }
+  .btns:hover {
+    color: black;
+    background: turquoise;
+  }

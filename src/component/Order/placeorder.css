@@ -1,0 +1,52 @@
+ /* body {
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    background-image: url("https://www.startupdonut.co.uk/sites/default/files/settingupadeliveryservice_305881976.jpg" );
+    opacity: "0.9";
+    background-attachment: fixed;
+     background-position: 100%;  
+    
+     background-position-y: 1%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(24, 20, 20);
+    line-height: 1.8;
+  }   */
+  
+    .cls1{
+      /* background-color: rgb(80, 134, 150); */
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAptXdM4h0XXiS7cghg-GENTgKkLZOneOVcS4yZ-bq7AnFiGMYBhuGE_FjL9mXs6UW3d8&usqp=CAU");
+      opacity: 0.8;
+      display: flexbox;
+      color: black;
+      border:2px black;
+      width:400px;
+      padding:50px;
+      margin:10px;
+      box-shadow: 0 9px 9px black;  
+      text-align: center;
+      margin-left: 35%;
+      /* margin-top: 50px;
+      margin-left: 100px; */
+    
+    }
+    
+    .btns {
+      background: rgb(62, 164, 140);
+      color: whitesmoke;
+      border: none;
+      font-size: 16px;
+      padding: 5px 10px;
+      border-radius: 2px;
+      cursor: pointer;
+      box-shadow: 0 9px 9px rgb(41, 40, 40); 
+      border:2px black;
+    }
+    
+    .btns:hover {
+      color: black;
+      background: turquoise;
+      font-size: large;
+    
+    }
+    
